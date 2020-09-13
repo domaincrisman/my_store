@@ -1203,6 +1203,7 @@ es:
     show_only_complete_orders: Mostrar solamente Pedidos completos
     show_only_considered_risky: Mostrar solamente Pedidos arriesgados
     show_rate_in_label: Mostrar tarifa en la etiqueta
+    show_search: Buscar
     sku: Referencia
     skus: SKUs
     slug: Slugs

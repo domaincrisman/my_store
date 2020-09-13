@@ -33,7 +33,7 @@ gem 'spree_auth_devise', '~> 4.1'
 gem 'spree_gateway', '~> 3.7'
 
 gem 'spree_i18n', github: 'spree-contrib/spree_i18n'
-gem 'spree_globalize', github: 'spree-contrib/spree_globalize'
+gem 'spree_globalize', github: 'spree-contrib/spree_globalize', branch: 'master'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

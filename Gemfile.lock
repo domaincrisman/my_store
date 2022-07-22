@@ -413,7 +413,7 @@ GEM
       camertron-eprun
       cldr-plurals-runtime-rb (~> 1.1)
       tzinfo
-    tzinfo (1.2.9)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     warden (1.2.9)
       rack (>= 2.0.9)
